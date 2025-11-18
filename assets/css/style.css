@@ -1,0 +1,22 @@
+body {
+    background-color: #111;   /* Dark background */
+    color: #ffffff;           /* White text */
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #4da6ff;           /* Light blue links */
+}
+
+a:hover {
+    color: #80c1ff;
+}
+
+nav, header, footer {
+    background-color: #000000;
+}
+
+code, pre {
+    background: #222;
+    color: #f8f8f2;
+}

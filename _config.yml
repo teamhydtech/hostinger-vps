@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+
+# Inject custom CSS
+include:
+  - assets/css/style.css

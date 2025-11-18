@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Panduan Membeli VPS di Hostinger
 
 Dokumen ini menjelaskan langkah demi langkah cara membeli VPS (Virtual Private Server) di Hostinger, mulai dari persiapan sampai pembayaran. Ditulis singkat dan rapi.
